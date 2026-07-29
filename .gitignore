@@ -1,0 +1,4 @@
+# Source CVs contain private phone numbers / reference contact details.
+# Kept locally only; not published to the public site repo.
+*.pdf
+.DS_Store
